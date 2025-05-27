@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner{
+    background-image: url(/protfolio/image/download.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+    
+
+
+}
+
+.skills-padding{
+    padding: 70px 0;
+}
